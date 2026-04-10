@@ -86,17 +86,30 @@ Operational backend for vehicle refueling workflows. Normalized domain model, au
 </ul>
 
 <hr/>
+<hr/>
 
 <h3 align="left">GitHub Activity</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=raiymbek&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiymbek&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=000000" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiymbek&hide_border=true&background=FFFFFF00&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
