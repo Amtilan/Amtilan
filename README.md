@@ -1,4 +1,4 @@
-<h1 align="left">Raiymbek Zhaksilikov</h1>
+<h1 align="left">Raiymbek Zhaxilikov</h1>
 
 <p align="left">
 Backend engineer building distributed systems, AI infrastructure, and robotics platforms.<br/>
@@ -18,6 +18,27 @@ I design and ship production software where latency, correctness, and operationa
   <li>Data layer: PostgreSQL, Redis, schema design, transactional integrity</li>
   <li>Infrastructure: Linux, Docker, observability, reproducible deployments</li>
 </ul>
+
+<hr/>
+
+<h3 align="left">Technology Stack</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="ESP32 / Arduino" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="42" height="42"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="42" height="42"/>
+</p>
 
 <hr/>
 
@@ -63,3 +84,19 @@ Operational backend for vehicle refueling workflows. Normalized domain model, au
   <li>Distributed asynchronous backends and resilient message-driven architectures</li>
   <li>Retrieval-augmented systems operating under strict latency and accuracy budgets</li>
 </ul>
+
+<hr/>
+
+<h3 align="left">GitHub Activity</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=raiymbek&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raiymbek&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=000000" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raiymbek&hide_border=true&background=FFFFFF00&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&dates=000000" alt="GitHub Streak" />
+</p>
