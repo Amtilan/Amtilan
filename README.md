@@ -95,14 +95,6 @@ Operational backend for vehicle refueling workflows. Normalized domain model, au
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amtilan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amtilan&layout=compact&hide_border=true&theme=github_dark&langs_count=10" alt="Top Languages" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amtilan&hide_border=true&theme=github-dark-blue" alt="GitHub Streak" />
 </p>
 
@@ -110,6 +102,4 @@ Operational backend for vehicle refueling workflows. Normalized domain model, au
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amtilan&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=amtilan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
+
